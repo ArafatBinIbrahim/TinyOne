@@ -1,0 +1,67 @@
+
+font awesome link connect ---->>>>
+<script src="https://kit.fontawesome.com/2ce4d0f430.js" crossorigin="anonymous"></script>
+
+
+{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}{{{{{{}}}}}}
+color
+------------------
+black #010101 
+deep ash #313841
+ash #898989 pera upor depend kore font familt te bosabo
+yellow #fcdb00
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+
+screens mapping
+--------------
+xxl =1440 - 1600-1800-2100 = check marbo
+xxl =200
+lg =1024
+
+md =768
+
+sm =576
+
+col =320
+
+header 
+----------------
+      xxl/xl/lg   md   sm/col 
+menu      22      22     
+
+slider 
+--------------------
+
+       xxl/xl/lg     md       sm/col 
+-------------------------------------
+h1       32          32        25 
+h2       20          20        18
+p        16          16        15/16
+icon     42          42        35   
+pb       100         100       60
+
+
+xxl/xl/lg 100-120    md 80  sm/col 50-70
+
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]][[[]]][]
+font family links {future support}
+==================
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+fonts [for style.css er font family te bosabo]
+-------------------
+font-family: "PT Sans", sans-serif;
+bold=700
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]][]
+
+
+features-------------------------------------------------------
+                     xxl/xl/lg     md      sm/col 
+padding top=>           100        80      50    
+padding bottom=>        120                70
+margin top              70         50      30 
+h1                      32         32      25
+p                       20         20      27
